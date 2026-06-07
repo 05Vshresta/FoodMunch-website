@@ -1,0 +1,102 @@
+.logo{
+    width:45px;
+    height: 45px;
+}
+.home-section{
+    background-image: url('https://res.cloudinary.com/dcizd1l0f/image/upload/v1768921840/cozy-indoor-scene-featuring-a-large-bowl-of-popcorn-on-a-wooden-table-with-fairy-lights-in-the-background-photo_awtfw7.jpg');
+    background-size: cover;
+    height: 100vh;
+    color: aliceblue;
+    border-radius: 10px;
+    font-family:monospace;
+    font-weight: 600;
+}
+.btn-1{
+    border-radius: 50px;
+    margin-right: 20px;
+    background-color: azure;
+}
+.btn-2{
+    border-radius: 50px;
+    background-color: transparent;
+    color: aliceblue;
+}
+
+.main-container{
+    background-color:transparent;
+    border-radius: 25px;
+    padding-top:100px;
+}
+.about-title{
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+}
+.about-desc{
+    text-align: center;
+}
+.card-container{
+   height:300px;
+   width:250px;
+}
+.card-img{
+    height:150px;
+    width:100px;
+}
+.card-title{
+    text-align:center;
+    font-family: cursive;
+    font-weight: 600;
+}
+.menu-page-heading{
+    text-align: center;
+}
+.menu-page-desc{
+    text-align: center;
+}
+.menu-item{
+    border-radius: 16px;
+   
+}
+.menu-title{
+    font-size: 20px;
+    color:#323f4b;
+    font-family: Roboto;
+    font-weight: 600;
+   
+}
+.button{
+    border-radius: 25px;
+    background-color: #d0b200;
+    color:#080808;
+}
+.card-image{
+    width: 300px;
+    height:200px;
+}
+.payment-heading{
+    color:rgb(1, 1, 74);
+}
+.icon-container{
+    background-color: #faf7e8;
+    border-radius:100px;
+    margin:10px;
+    padding: 15px;
+}
+
+.icon{
+    color:#d0b200;
+    font-size:30px;
+    margin-top: 10px;
+}
+.Thankyou-section{
+    padding-top:55px;
+}
+.gift-box{
+    width:200px;
+    height:200px;
+}
+.social-links{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
